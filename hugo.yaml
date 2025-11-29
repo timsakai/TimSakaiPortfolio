@@ -54,4 +54,8 @@ params:
     #  url: https://www.reddit.com/user/ian-s-mcb
     #- name: StackOverflow
     #  url: https://stackoverflow.com/users/3417846/ian-s-mcb
-  subtitle: "過去作品集"
+  subtitle: "過去作品集 [Read more...]で記事の中を見れるよ"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
