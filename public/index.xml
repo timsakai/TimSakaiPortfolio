@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2023 10:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>私のポートフォリオ</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Fri, 27 Oct 2023 10:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;こんにちは！これが最初のページです。&lt;/p&gt;&#xA;&lt;p&gt;以下は私の作品（または写真）です。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/testimg.png&#34; alt=&#34;テスト画像&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;ここからポートフォリオを作り込んでいきます。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
