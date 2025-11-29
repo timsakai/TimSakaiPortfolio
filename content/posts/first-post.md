@@ -10,6 +10,6 @@ draft: false
 
 <!-- 画像の埋め込み -->
 <!-- staticフォルダは省略して / から書くのがルールです -->
-![テスト画像](/portfolio/images/testimg.png)
+![テスト画像](https://bestsports.jp/cdn/shop/articles/kronos_stb-28_main_800x.webp?v=1717118967)
 
 ここからポートフォリオを作り込んでいきます。
