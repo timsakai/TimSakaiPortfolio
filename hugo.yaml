@@ -33,7 +33,7 @@ menu:
 params:
   abbrDateFmt: "POST"
   author: "Teimu Sakai"
-  brandIconFile: "images/brandIcon.svg"
+  brandIconFile: "images/mllogo.png"
   dateFmt: "2025-11-01"
   ##
   ## Options for overriding theme or page defaults
