@@ -1,11 +1,13 @@
 ---
 title: "NHK \"ゲームゲノム\"で、制作したゲームが紹介されました"
-date: 2025-11-29T10:00:00+09:00
+date: 2025-11-29
 draft: false
+weight: 0
 ---
-# 専門学校 国際理工カレッジ としての出展が取り上げられた！
+*専門学校 国際理工カレッジ としての出展が取り上げられた！*
 
 ![tv2](https://github.com/timsakai/TimSakaiPortfolio/blob/main/static/images/pf/terevi_2.png?raw=true)
+***
 <!--more-->
 ![tv1](https://github.com/timsakai/TimSakaiPortfolio/blob/main/static/images/pf/terevi_1.png?raw=true)
 

@@ -1,12 +1,15 @@
 ---
 title: "酒井定歩 アルバイトでの制作"
-date: 2025-11-29T10:00:00+09:00
+date: 2025-11-29
 draft: false
+weight: 4
 ---
 
+*2023から2025までやっていたゲーム制作会社でのアルバイト*
 <!-- 画像の埋め込み -->
 <!-- staticフォルダは省略して / から書くのがルールです -->
 ![p34](https://github.com/timsakai/TimSakaiPortfolio/blob/main/static/images/pf/24/Byte/chainsaw.png?raw=true)
+***
 <!--more-->
 
 # アルバイト
@@ -29,10 +32,12 @@ draft: false
     * ハイエンドモデルを、**モバイル(Meta Quest)向けの軽量モデル**へローポリ化
 * キャラモデルのリダクション
     * **スタイライズ調をトゥーン調に**、プロジェクト固有のシェーダーへの対応化
+***
 ### リギング,スクリプティング
 * キャラモデルのBlender ARPリグ から、Mayaリグへの変換
 * およびアニメーションの移植 
 * モーキャプリグの**リターゲティングスクリプトの作成**
+***
 ### 企画の提出
 * 企画を提出し、みてもらった
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/board/gK7ccWXYew9HZ494WZbV3F/%E9%85%92%E4%BA%95%E4%BC%81%E7%94%BB?node-id=0-1&embed-host=share" allowfullscreen></iframe>
