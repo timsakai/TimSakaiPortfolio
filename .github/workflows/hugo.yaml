@@ -30,7 +30,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.128.0 # 必要に応じてバージョンを指定（基本このままでOK）
+      HUGO_VERSION: 0.146.0 # 必要に応じてバージョンを指定（基本このままでOK）
       HUGO_ENV: production
       HUGO_ENABLEGITINFO: "true"
     steps:
