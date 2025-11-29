@@ -10,6 +10,6 @@ draft: false
 
 <!-- 画像の埋め込み -->
 <!-- staticフォルダは省略して / から書くのがルールです -->
-![テスト画像](/images/testimg.png)
+![テスト画像](/portfolio/images/testimg.png)
 
 ここからポートフォリオを作り込んでいきます。
