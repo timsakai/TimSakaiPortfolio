@@ -26,6 +26,7 @@ Boothにて販売している。
 ## モディラくん
 ![p34](https://github.com/timsakai/TimSakaiPortfolio/blob/main/static/images/pf/modira_thumbnail.png?raw=true)
 >ひとこと：*とあるサークルのマスコットキャラを3D化。オリジナルデザインじゃないやつは珍しい。*
+>　デザイン：[落花生さんのアカウントリンク]
 ***
 ## Diving Suit K.Foster 潜水服 K.Foster
 ![kf](https://booth.pximg.net/dc8c3f8f-fa2c-4253-a304-2d58119dd358/i/4107606/b2b17c16-1f6e-442a-8329-44c520cb26e2_base_resized.jpg)
